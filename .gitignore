@@ -1,2 +1,4 @@
-INFO.md
-node_modules/
+/node_modules/
+*.log
+coverage
+.DS_Store
