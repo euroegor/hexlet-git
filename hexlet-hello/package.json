@@ -1,8 +1,8 @@
 {
-  "name": "hexlet-hello-world",
+  "name": "hexlet-project",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "new training project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
